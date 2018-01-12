@@ -11,6 +11,12 @@ my_add_executable("chpt1" "exer1_13")
 my_add_executable("chpt1" "exer1_16")
 my_add_executable("chpt1" "exer1_17_18")
 my_add_executable("chpt1" "exer1_20")
+my_add_executable("chpt1" "exer1_23_24")
+my_add_executable("chpt1" "exer1_25")
+
+# chapter 2
+my_add_executable("chpt2" "exer2_3_4")
+my_add_executable("chpt2" "exer2_8")
 
 # chapter 6
 my_add_executable("chpt6" "exer6_10")
