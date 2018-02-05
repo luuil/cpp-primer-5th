@@ -22,6 +22,16 @@ my_add_executable("chpt2" "exer2_18")
 my_add_executable("chpt2" "exer2_34")
 my_add_executable("chpt2" "exer2_40")
 
+# chapter 3
+my_add_executable("chpt3" "exer3_2")
+my_add_executable("chpt3" "exer3_34")
+my_add_executable("chpt3" "exer3_35")
+my_add_executable("chpt3" "exer3_36")
+my_add_executable("chpt3" "exer3_39")
+my_add_executable("chpt3" "exer3_40")
+my_add_executable("chpt3" "exer3_41_42")
+my_add_executable("chpt3" "exer3_43_44_45")
+
 # chapter 6
 my_add_executable("chpt6" "exer6_10")
 
